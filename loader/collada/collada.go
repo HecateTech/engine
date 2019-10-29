@@ -8,9 +8,9 @@ package collada
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/texture"
+	"github.com/hecatetech/engine/geometry"
+	"github.com/hecatetech/engine/material"
+	"github.com/hecatetech/engine/texture"
 	"io"
 	"os"
 )

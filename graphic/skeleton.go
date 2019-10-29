@@ -5,8 +5,8 @@
 package graphic
 
 import (
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/math32"
+	"github.com/hecatetech/engine/core"
+	"github.com/hecatetech/engine/math32"
 	)
 
 // Skeleton contains armature information.

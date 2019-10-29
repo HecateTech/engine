@@ -10,9 +10,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/g3n/engine/gui/assets/icon"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/window"
+	"github.com/hecatetech/engine/gui/assets/icon"
+	"github.com/hecatetech/engine/math32"
+	"github.com/hecatetech/engine/window"
 )
 
 const (

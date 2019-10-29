@@ -5,7 +5,7 @@
 package collada
 
 import (
-	"github.com/g3n/engine/util/logger"
+	"github.com/hecatetech/engine/util/logger"
 )
 
 // Package logger

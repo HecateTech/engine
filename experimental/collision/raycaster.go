@@ -5,12 +5,12 @@
 package collision
 
 import (
-	"github.com/g3n/engine/camera"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
+	"github.com/hecatetech/engine/camera"
+	"github.com/hecatetech/engine/core"
+	"github.com/hecatetech/engine/gls"
+	"github.com/hecatetech/engine/graphic"
+	"github.com/hecatetech/engine/material"
+	"github.com/hecatetech/engine/math32"
 	"sort"
 )
 

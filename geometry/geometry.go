@@ -6,9 +6,9 @@
 package geometry
 
 import (
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/util/logger"
+	"github.com/hecatetech/engine/gls"
+	"github.com/hecatetech/engine/math32"
+	"github.com/hecatetech/engine/util/logger"
 	"strconv"
 )
 
