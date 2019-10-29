@@ -1,7 +1,7 @@
 package gltf
 
 import (
-	"github.com/hecatetech/engine/material"
+	"github.com/hecate-tech/engine/material"
 )
 
 // TODO

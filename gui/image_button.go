@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/texture"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/texture"
+	"github.com/hecate-tech/engine/window"
 )
 
 // ImageButton represents an image button GUI element

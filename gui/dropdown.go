@@ -5,7 +5,7 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/gui/assets/icon"
+	"github.com/hecate-tech/engine/gui/assets/icon"
 )
 
 // DropDown represents a dropdown GUI element.

@@ -4,7 +4,7 @@
 
 package physics
 
-import "github.com/hecatetech/engine/math32"
+import "github.com/hecate-tech/engine/math32"
 
 // ForceField represents a force field. A force is defined for every point.
 type ForceField interface {

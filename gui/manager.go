@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/window"
 )
 
 // manager singleton

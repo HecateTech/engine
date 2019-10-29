@@ -7,7 +7,7 @@ package gui
 import (
 	"fmt"
 
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/window"
 )
 
 // TabBar is a panel which can contain other panels arranged in horizontal Tabs.

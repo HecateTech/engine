@@ -5,8 +5,8 @@
 package geometry
 
 import (
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/math32"
 	"math"
 )
 

@@ -9,11 +9,11 @@ package window
 import (
 	"bytes"
 	"fmt"
-	"github.com/hecatetech/engine/gui/assets"
+	"github.com/hecate-tech/engine/gui/assets"
 	"runtime"
 
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/gls"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/gls"
 	"github.com/go-gl/glfw/v3.2/glfw"
 	"image"
 	_ "image/png"

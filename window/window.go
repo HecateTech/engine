@@ -8,9 +8,9 @@ package window
 
 import (
 	"fmt"
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/util/logger"
 )
 
 // Package logger

@@ -5,7 +5,7 @@
 package material
 
 import (
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // Point material is normally used for single point sprites

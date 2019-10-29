@@ -4,7 +4,7 @@
 
 package window
 
-import "github.com/hecatetech/engine/core"
+import "github.com/hecate-tech/engine/core"
 
 // KeyState keeps track of the state of all keys.
 type KeyState struct {

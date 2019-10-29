@@ -5,7 +5,7 @@
 package constraint
 
 import (
-	"github.com/hecatetech/engine/experimental/physics/equation"
+	"github.com/hecate-tech/engine/experimental/physics/equation"
 )
 
 // Distance is a distance constraint.

@@ -8,8 +8,8 @@ package app
 
 import (
 	"fmt"
-	"github.com/hecatetech/engine/renderer"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/renderer"
+	"github.com/hecate-tech/engine/window"
 	"syscall/js"
 	"time"
 )

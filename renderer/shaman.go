@@ -9,9 +9,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/renderer/shaders"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/renderer/shaders"
 	"strconv"
 )
 

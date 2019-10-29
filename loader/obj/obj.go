@@ -18,13 +18,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/geometry"
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/graphic"
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/texture"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/geometry"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/graphic"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/texture"
 )
 
 // Decoder contains all decoded data from the obj and mtl files

@@ -5,9 +5,9 @@
 package shape
 
 import (
-	"github.com/hecatetech/engine/geometry"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/experimental/collision"
+	"github.com/hecate-tech/engine/geometry"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/experimental/collision"
 )
 
 // ConvexHull is a convex triangle-based geometry used for collision detection and contact resolution.

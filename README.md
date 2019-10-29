@@ -1,8 +1,8 @@
 
 <p align="center"><img width="150" src="https://github.com/g3n/g3nd/blob/master/data/images/g3n_logo.png" alt="G3N Banner"/></p>
 <p align="center">
-  <a href="https://godoc.org/github.com/hecatetech/engine"><img src="https://godoc.org/github.com/hecatetech/engine?status.svg" alt="Godoc"></img></a>
-  <a href="https://goreportcard.com/report/github.com/hecatetech/engine"><img src="https://goreportcard.com/badge/github.com/hecatetech/engine"  alt="Go Report Card"/></a>
+  <a href="https://godoc.org/github.com/hecate-tech/engine"><img src="https://godoc.org/github.com/hecate-tech/engine?status.svg" alt="Godoc"></img></a>
+  <a href="https://goreportcard.com/report/github.com/hecate-tech/engine"><img src="https://goreportcard.com/badge/github.com/hecate-tech/engine"  alt="Go Report Card"/></a>
 </p>
 <p><h1 align="center">G3N - Go 3D Game Engine</h1></p>
 
@@ -61,7 +61,7 @@ Install the development files of OpenAL and Vorbis using [Homebrew](https://brew
 The following set of commands will download and install the engine along with all its Go dependencies:
   
 ```
-git clone https://github.com/hecatetech/engine g3n-engine
+git clone https://github.com/hecate-tech/engine g3n-engine
 cd g3n-engine
 go install ./...
 ```
@@ -98,19 +98,19 @@ The code below is a basic "hello world" application ([hellog3n](https://github.c
 package main
 
 import (
-	"github.com/hecatetech/engine/app"
-	"github.com/hecatetech/engine/camera"
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/geometry"
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/graphic"
-	"github.com/hecatetech/engine/gui"
-	"github.com/hecatetech/engine/light"
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/renderer"
-	"github.com/hecatetech/engine/util/helper"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/app"
+	"github.com/hecate-tech/engine/camera"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/geometry"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/graphic"
+	"github.com/hecate-tech/engine/gui"
+	"github.com/hecate-tech/engine/light"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/renderer"
+	"github.com/hecate-tech/engine/util/helper"
+	"github.com/hecate-tech/engine/window"
 	"time"
 )
 
@@ -189,12 +189,12 @@ For more complex demos please see the [G3N demo program](https://github.com/g3n/
 
 ## Documentation
 
-The complete engine API reference can be found here: [![GoDoc](https://godoc.org/github.com/hecatetech/engine?status.svg)](https://godoc.org/github.com/hecatetech/engine).
+The complete engine API reference can be found here: [![GoDoc](https://godoc.org/github.com/hecate-tech/engine?status.svg)](https://godoc.org/github.com/hecate-tech/engine).
 
 There is also the beginning of a Getting Started Guide, and a newly created list of Guides and Tutorials:
 
-* [Getting Started](https://github.com/hecatetech/engine/wiki/Getting-Started-(WIP))
-* [Guides and Tutorials](https://github.com/hecatetech/engine/wiki/Guides-and-Tutorials)
+* [Getting Started](https://github.com/hecate-tech/engine/wiki/Getting-Started-(WIP))
+* [Guides and Tutorials](https://github.com/hecate-tech/engine/wiki/Guides-and-Tutorials)
 
 Along with those, a good way to learn how to use the engine is to see the source code of [G3ND - the G3N demo](https://github.com/g3n/g3nd).
   

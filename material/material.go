@@ -7,9 +7,9 @@
 package material
 
 import (
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/texture"
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/texture"
+	"github.com/hecate-tech/engine/util/logger"
 )
 
 // Package logger

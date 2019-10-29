@@ -5,7 +5,7 @@
 package gls
 
 import (
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // VBO abstracts an OpenGL Vertex Buffer Object.

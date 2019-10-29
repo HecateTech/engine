@@ -1,8 +1,8 @@
 package stats
 
 import (
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/gui"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/gui"
 )
 
 // StatsTable is a gui.Table panel with statistics

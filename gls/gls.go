@@ -13,7 +13,7 @@
 package gls
 
 import (
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/util/logger"
 	"math"
 	"unsafe"
 )

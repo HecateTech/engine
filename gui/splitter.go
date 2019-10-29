@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/window"
 )
 
 // Splitter is a GUI element that splits two panels and can be adjusted

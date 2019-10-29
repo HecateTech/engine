@@ -5,10 +5,10 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/gui/assets"
-	"github.com/hecatetech/engine/gui/assets/icon"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/text"
+	"github.com/hecate-tech/engine/gui/assets"
+	"github.com/hecate-tech/engine/gui/assets/icon"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/text"
 )
 
 // NewLightStyle creates and returns a pointer to the a new "light" style

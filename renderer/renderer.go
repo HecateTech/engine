@@ -6,15 +6,15 @@
 package renderer
 
 import (
-	"github.com/hecatetech/engine/camera"
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/graphic"
-	"github.com/hecatetech/engine/gui"
-	"github.com/hecatetech/engine/light"
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/camera"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/graphic"
+	"github.com/hecate-tech/engine/gui"
+	"github.com/hecate-tech/engine/light"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/util/logger"
 	"sort"
 )
 

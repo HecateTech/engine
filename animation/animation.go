@@ -5,7 +5,7 @@
 // Package animation
 package animation
 
-import "github.com/hecatetech/engine/util/logger"
+import "github.com/hecate-tech/engine/util/logger"
 
 // Package logger
 var log = logger.New("ANIMATION", logger.Default)

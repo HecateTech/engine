@@ -5,7 +5,7 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/window"
 )
 
 /***************************************

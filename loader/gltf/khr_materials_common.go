@@ -1,9 +1,9 @@
 package gltf
 
 import (
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/texture"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/texture"
 )
 
 // loadMaterialCommon receives an interface value describing a KHR_materials_common extension,

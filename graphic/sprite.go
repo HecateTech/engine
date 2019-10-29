@@ -5,11 +5,11 @@
 package graphic
 
 import (
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/geometry"
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/geometry"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // Sprite is a potentially animated image positioned in space that always faces the camera.

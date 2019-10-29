@@ -4,7 +4,7 @@
 
 package collision
 
-import "github.com/hecatetech/engine/math32"
+import "github.com/hecate-tech/engine/math32"
 
 // Contact describes a contact point, normal, and depth.
 type Contact struct {

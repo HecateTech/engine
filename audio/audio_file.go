@@ -8,8 +8,8 @@ package audio
 
 import (
 	"fmt"
-	"github.com/hecatetech/engine/audio/al"
-	"github.com/hecatetech/engine/audio/ov"
+	"github.com/hecate-tech/engine/audio/al"
+	"github.com/hecate-tech/engine/audio/ov"
 	"io"
 	"os"
 	"unsafe"

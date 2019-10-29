@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/hecatetech/engine/gls"
+	"github.com/hecate-tech/engine/gls"
 	"runtime"
 	"time"
 )

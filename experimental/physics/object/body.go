@@ -5,10 +5,10 @@
 package object
 
 import (
-	"github.com/hecatetech/engine/graphic"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/material"
-	"github.com/hecatetech/engine/experimental/collision/shape"
+	"github.com/hecate-tech/engine/graphic"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/material"
+	"github.com/hecate-tech/engine/experimental/collision/shape"
 )
 
 // Body represents a physics-driven body.

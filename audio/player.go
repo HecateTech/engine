@@ -10,10 +10,10 @@ package audio
 import "C"
 
 import (
-	"github.com/hecatetech/engine/audio/al"
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/audio/al"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/math32"
 	"io"
 	"time"
 	"unsafe"

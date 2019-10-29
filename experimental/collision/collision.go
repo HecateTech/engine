@@ -6,7 +6,7 @@
 // WARNING: Parts of this package are experimental and incomplete!
 package collision
 
-import "github.com/hecatetech/engine/geometry"
+import "github.com/hecate-tech/engine/geometry"
 
 // TODO collision checking function dependent on collision shapes
 

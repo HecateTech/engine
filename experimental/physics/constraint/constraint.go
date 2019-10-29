@@ -6,8 +6,8 @@
 package constraint
 
 import (
-	"github.com/hecatetech/engine/experimental/physics/equation"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/experimental/physics/equation"
+	"github.com/hecate-tech/engine/math32"
 )
 
 type IBody interface {

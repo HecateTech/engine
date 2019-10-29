@@ -5,7 +5,7 @@
 package equation
 
 import (
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // Contact is a contact/non-penetration constraint equation.

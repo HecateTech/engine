@@ -5,8 +5,8 @@
 package physics
 
 //import (
-//	"github.com/hecatetech/engine/math32"
-//	"github.com/hecatetech/engine/graphic"
+//	"github.com/hecate-tech/engine/math32"
+//	"github.com/hecate-tech/engine/graphic"
 //)
 //
 //// Particle represents a physics-driven particle.

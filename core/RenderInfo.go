@@ -5,7 +5,7 @@
 package core
 
 import (
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // RenderInfo is passed into Render/RenderSetup calls

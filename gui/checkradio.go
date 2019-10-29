@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/gui/assets/icon"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/gui/assets/icon"
+	"github.com/hecate-tech/engine/window"
 )
 
 const (

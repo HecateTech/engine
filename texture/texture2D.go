@@ -7,7 +7,7 @@ package texture
 
 import (
 	"fmt"
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/util/logger"
 	"image"
 	"image/draw"
 	_ "image/gif"
@@ -15,7 +15,7 @@ import (
 	_ "image/png"
 	"os"
 
-	"github.com/hecatetech/engine/gls"
+	"github.com/hecate-tech/engine/gls"
 )
 
 // Package logger

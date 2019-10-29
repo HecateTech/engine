@@ -6,9 +6,9 @@
 package camera
 
 import (
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/util/logger"
 )
 
 // Package logger

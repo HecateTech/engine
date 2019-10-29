@@ -5,14 +5,14 @@
 package physics
 
 import (
-	"github.com/hecatetech/engine/experimental/physics/equation"
-	"github.com/hecatetech/engine/experimental/physics/solver"
-	"github.com/hecatetech/engine/experimental/physics/constraint"
-	"github.com/hecatetech/engine/experimental/collision"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/experimental/physics/object"
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/experimental/collision/shape"
+	"github.com/hecate-tech/engine/experimental/physics/equation"
+	"github.com/hecate-tech/engine/experimental/physics/solver"
+	"github.com/hecate-tech/engine/experimental/physics/constraint"
+	"github.com/hecate-tech/engine/experimental/collision"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/experimental/physics/object"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/experimental/collision/shape"
 )
 
 // Simulation represents a physics simulation.

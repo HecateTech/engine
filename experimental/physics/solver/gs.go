@@ -6,7 +6,7 @@
 package solver
 
 import (
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // GaussSeidel equation solver.

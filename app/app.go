@@ -5,7 +5,7 @@
 // Package app implements a cross-platform G3N app.
 package app
 
-import "github.com/hecatetech/engine/util/logger"
+import "github.com/hecate-tech/engine/util/logger"
 
 // Package logger
 var log = logger.New("APP", logger.Default)

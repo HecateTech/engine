@@ -7,8 +7,8 @@ package gui
 import (
 	"path/filepath"
 
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/window"
 )
 
 // buildPanel builds an object of type Panel

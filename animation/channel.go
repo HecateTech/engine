@@ -5,9 +5,9 @@
 package animation
 
 import (
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/geometry"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/geometry"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // A Channel associates an animation parameter channel to an interpolation sampler

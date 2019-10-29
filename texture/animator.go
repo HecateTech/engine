@@ -5,7 +5,7 @@
 package texture
 
 import (
-	"github.com/hecatetech/engine/gls"
+	"github.com/hecate-tech/engine/gls"
 	"time"
 )
 

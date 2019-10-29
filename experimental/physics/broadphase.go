@@ -6,7 +6,7 @@
 package physics
 
 import (
-	"github.com/hecatetech/engine/experimental/physics/object"
+	"github.com/hecate-tech/engine/experimental/physics/object"
 )
 
 // CollisionPair is a pair of bodies that may be colliding.

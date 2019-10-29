@@ -7,7 +7,7 @@ package text
 import (
 	"bufio"
 	"fmt"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 	"image"
 	"image/png"
 	"os"

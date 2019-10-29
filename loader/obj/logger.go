@@ -5,7 +5,7 @@
 package obj
 
 import (
-	"github.com/hecatetech/engine/util/logger"
+	"github.com/hecate-tech/engine/util/logger"
 )
 
 // Package logger

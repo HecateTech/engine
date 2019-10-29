@@ -5,10 +5,10 @@
 package graphic
 
 import (
-	"github.com/hecatetech/engine/gls"
+	"github.com/hecate-tech/engine/gls"
 	"strconv"
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/math32"
 )
 
 // MaxBoneInfluencers is the maximum number of bone influencers per vertex.

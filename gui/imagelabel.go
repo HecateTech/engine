@@ -5,7 +5,7 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/math32"
+	"github.com/hecate-tech/engine/math32"
 )
 
 /***************************************

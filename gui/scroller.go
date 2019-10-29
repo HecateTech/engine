@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/window"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/window"
 )
 
 // Scroller is the GUI element that allows scrolling of a target IPanel.

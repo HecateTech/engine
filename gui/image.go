@@ -5,7 +5,7 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/texture"
+	"github.com/hecate-tech/engine/texture"
 	"image"
 )
 

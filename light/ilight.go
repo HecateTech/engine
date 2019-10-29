@@ -5,8 +5,8 @@
 package light
 
 import (
-	"github.com/hecatetech/engine/core"
-	"github.com/hecatetech/engine/gls"
+	"github.com/hecate-tech/engine/core"
+	"github.com/hecate-tech/engine/gls"
 )
 
 // ILight is the interface that must be implemented for all light types.

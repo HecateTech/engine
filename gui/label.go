@@ -5,10 +5,10 @@
 package gui
 
 import (
-	"github.com/hecatetech/engine/gls"
-	"github.com/hecatetech/engine/math32"
-	"github.com/hecatetech/engine/text"
-	"github.com/hecatetech/engine/texture"
+	"github.com/hecate-tech/engine/gls"
+	"github.com/hecate-tech/engine/math32"
+	"github.com/hecate-tech/engine/text"
+	"github.com/hecate-tech/engine/texture"
 )
 
 // Label is a panel which contains a texture with text.

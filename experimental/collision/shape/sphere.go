@@ -4,7 +4,7 @@
 
 package shape
 
-import "github.com/hecatetech/engine/math32"
+import "github.com/hecate-tech/engine/math32"
 
 // Sphere is an analytical collision sphere.
 type Sphere struct {
